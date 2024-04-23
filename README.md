@@ -1,0 +1,2 @@
+# Ruta_Primitiva
+Ruta_Primitiva_Camino_de_Santiago
